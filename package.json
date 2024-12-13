@@ -1,0 +1,40 @@
+{
+  "name": "@nousantx/color-library",
+  "version": "1.0.0",
+  "description": "Small color lib for @nousantx/color-generator",
+  "author": "NOuSantx <nousantx@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nousantx/color-library#readme",
+  "keywords": [
+    "keywords"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nousantx/color-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nousantx/color-library/issues"
+  },
+  "files": [
+    "dist",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "type": "module",
+  "types": "types/index.d.ts",
+  "main": "dist/index.cjs",
+  "module": "dist/index.esm.js",
+  "browser": "dist/index.umd.js",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.1",
+    "@rollup/plugin-node-resolve": "^15.3.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@types/node": "^22.10.2",
+    "rollup": "^4.28.1"
+  }
+}
