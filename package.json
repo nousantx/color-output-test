@@ -1,19 +1,19 @@
 {
   "name": "@nousantx/color-library",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Small color lib for @nousantx/color-generator",
   "author": "NOuSantx <nousantx@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/nousantx/color-library#readme",
+  "homepage": "https://github.com/nousantx/color-output-test#readme",
   "keywords": [
     "keywords"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nousantx/color-library.git"
+    "url": "git+https://github.com/nousantx/color-output-test.git"
   },
   "bugs": {
-    "url": "https://github.com/nousantx/color-library/issues"
+    "url": "https://github.com/nousantx/color-output-test/issues"
   },
   "files": [
     "dist",
