@@ -6,7 +6,8 @@
   "license": "MIT",
   "homepage": "https://github.com/nousantx/color-output-test#readme",
   "keywords": [
-    "keywords"
+    "color",
+    "library"
   ],
   "repository": {
     "type": "git",
@@ -31,6 +32,7 @@
     "build": "rollup -c"
   },
   "devDependencies": {
+    "@nousantx/color-generator": "^1.5.1",
     "@rollup/plugin-commonjs": "^28.0.1",
     "@rollup/plugin-node-resolve": "^15.3.0",
     "@rollup/plugin-terser": "^0.4.4",

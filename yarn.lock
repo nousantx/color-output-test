@@ -42,6 +42,11 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@nousantx/color-generator@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@nousantx/color-generator/-/color-generator-1.5.1.tgz#6bae0cd3539ee3e1be7f4a369e5eaf1675071c46"
+  integrity sha512-WO0EvIyHqbG05R3WAPY4kKsq4133qY+BC4crKT/NUfrDjeVfmi876A9kZDs26znYy1YQmq6ePBGWPufPPgV4XA==
+
 "@rollup/plugin-commonjs@^28.0.1":
   version "28.0.1"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-commonjs/-/plugin-commonjs-28.0.1.tgz#e2138e31cc0637676dc3d5cae7739131f7cd565e"
